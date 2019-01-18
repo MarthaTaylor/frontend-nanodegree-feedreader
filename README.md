@@ -1,5 +1,5 @@
 
-# Project 5 RSS Feed Reader Testing with Jasmine 
+# RSS Feed Reader Testing with Jasmine 
 
 ## Table of Contents
 
@@ -35,29 +35,29 @@ To use Jasmine to write and run a number of tests against a pre-existing applica
 Feel free to download the Feed Reader project to your machine.
 Jasmine is there already included and installed.
 
-*Download the repository as a zip-file, extract it and open the index.html in your browser to run the Feed Reader Testing. 
-*Clone the repository with Git Bash, first cd into the directory you wish to store your project in then run the command: ```$ git clone https://github.com/MarthaTaylor/frontend-nanodegree-feedreader``` and go to the folder, open the index.html in your browser to run the RSS Feed Reader Tests.
+1. Download the repository as a zip-file, extract it and open the index.html in your browser to run the Feed Reader Testing. 
+2. Clone the repository with Git Bash, first cd into the directory you wish to store your project in then run the command: ```$ git clone https://github.com/MarthaTaylor/frontend-nanodegree-feedreader``` and go to the folder, open the index.html in your browser to run the RSS Feed Reader Tests.
 
 ## External Code Used in this Project
 
 The resources at the following links helped me to get a better understanding of the arcade game project:
 
-*The starter code for this project comes from the following (Udacity Frontend Feed Reader repository[here](https://github.com/udacity/frontend-nanodegree-feedreader)). I forked and cloned it to my laptop. Creating the origin connection to the remote repository and pushed up my work to my remote repository here on GitHub.
+1. The starter code for this project comes from the following [Udacity Frontend Feed Reader repository](https://github.com/udacity/frontend-nanodegree-feedreader). I forked and cloned it to my laptop. Creating the origin connection to the remote repository and pushed up my work to my remote repository here on GitHub.
 
-*The basic functions were taken from a mixture or (Mathew Cranford[here](www.mathewcranford.com)) and (Mohamed Riaad's[here](https://www.youtube.com/watch?reload=9&v=Ut_L8YUImbw&index=6&list=PLpRo6-g-F-AOUsTQbKY1EYNpqXtxCT4a-&t=27s)).
+2. The basic functions were taken from a mixture or [Mathew Cranford](www.mathewcranford.com) and [Mohamed Riaad's](https://www.youtube.com/watch?reload=9&v=Ut_L8YUImbw&index=6&list=PLpRo6-g-F-AOUsTQbKY1EYNpqXtxCT4a-&t=27s)).
 
 
 ## Credits
 
 The Udacity course work, written tutorials by Mathew Cranford and youtube Study Jam by Mohamed Riaad, Jasmine Documentation and article from  helped me to get a good overview and understanding of the feed reader project and there approachs to TDD was insightful. 
 
-The (JavaScript Testing[here](https://eu.udacity.com/course/javascript-testing--ud549)) course gives a solid introduction into testing with Jasmine.
+The [JavaScript Testing](https://eu.udacity.com/course/javascript-testing--ud549) course gives a solid introduction into testing with Jasmine.
 
-The (Jasmine Documentation[here](https://jasmine.github.io/tutorials/your_first_suite)) is excellent 
+The [Jasmine Documentation](https://jasmine.github.io/tutorials/your_first_suite) is excellent 
 
-An overview of TDD and Jasmine's plus (Jasmines default matchers[here] (https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e)) written by Delores Diei which is very handy.
+An overview of TDD and Jasmine's plus [Jasmines default matchers](https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e) written by Delores Diei which is very handy.
 
-A comprehensive list on GitHub of (Jasmine's matchers[here](https://github.com/JamieMason/Jasmine-Matchers#jasmines-default-matchers))
+A comprehensive list on GitHub of [Jasmine's matchers](https://github.com/JamieMason/Jasmine-Matchers#jasmines-default-matchers)
 
 
 # Acknowledgements
@@ -66,17 +66,18 @@ Big thanks to all who support me during my projects at Udacity, at home and on t
 
 Especially my student group at Udacity/Google Scholarship Slack workspace and all of my study groups! 
 
-An article outlining an overview of TDD and Jasmine's plus (Jasmines default matchers[here] (https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e)) written by Delores Diei which is very handy, thanks Delores. The Jasmine documentation writers who ever you are you really made it easier to grasp the tool, thank you.
+An article outlining an overview of TDD and Jasmine's plus [Jasmines default matchers](https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e) written by Delores Diei which is very handy, thanks Delores. The Jasmine documentation writers who ever you are you really made it easier to grasp the tool, thank you.
 
 A special shout out to the talented Mathew Cranford for his awesome teaching written tutorials abilities, thank you!
 
 # Contributing
 
-This repository is one of my projects as a Udacity student. I plan to update code to ES6. Therefore, I most likely will not accept pull requests.
+This repository is one of my projects as a Udacity student. I plan to update code too ES6 soon. Therefore, I most likely will not accept pull requests.
 
 For details, check out CONTRIBUTING.md file in this project repository.
 
 # License
-(c) Martha Taylor 2018.
 
-This repository is licensed under the (MIT license[here](https://choosealicense.com/licenses/mit/#)). For further information see the LICENSE file in this project repository.
+(c) Martha Taylor 2018
+
+This repository is licensed under the [MIT license](https://choosealicense.com/licenses/mit/#). For further information see the LICENSE file in this project repository.
