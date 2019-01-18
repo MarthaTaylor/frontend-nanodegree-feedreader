@@ -11,7 +11,7 @@
 - [Credits](#credits)
 - [Contributing](#contributing)
 - [Acknowledgements](#Acknowledgements)
-- [LICENSE](#LICENSE)
+- [License](#LICENSE)
 
 
 # Project Overview
