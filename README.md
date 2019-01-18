@@ -21,7 +21,7 @@ The Udacity overview for this project states: In this project you are given a we
 
 ## Why this Project?
 
-The Udacity states: Testing is an important part of the development process and many organizations practice a standard of development known as "test-driven development". This is when developers write tests first, before they ever start developing their application. All the tests initially fail and then they start writing application code to make these tests pass.
+The Udacity reasons states: Testing is an important part of the development process and many organizations practice a standard of development known as "test-driven development". This is when developers write tests first, before they ever start developing their application. All the tests initially fail and then they start writing application code to make these tests pass.
 
 Whether you work in an organization that uses test-driven development or in an organization that uses tests to make sure future feature development doesn't break existing features, it's an important skill to have!
 
@@ -36,7 +36,8 @@ Feel free to download the Feed Reader project to your machine.
 Jasmine is there already included and installed.
 
 1. Download the repository as a zip-file, extract it and open the index.html in your browser to run the Feed Reader Testing. 
-2. Clone the repository with Git Bash, first cd into the directory you wish to store your project in then run the command: ```$ git clone https://github.com/MarthaTaylor/frontend-nanodegree-feedreader``` and go to the folder, open the index.html in your browser to run the RSS Feed Reader Tests.
+2. Clone the repository with Git Bash, first cd into the directory you wish to store your project in then run the command: 
+```$ git clone https://github.com/MarthaTaylor/frontend-nanodegree-feedreader``` and go to the folder, open the index.html in your browser to run the RSS Feed Reader Tests.
 
 ## External Code Used in this Project
 
