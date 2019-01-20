@@ -41,6 +41,7 @@ CSS
 JavaScript
 
 Testing Framework:
+
 Jasmine 
 
 
@@ -49,18 +50,19 @@ Jasmine
 Feel free to download the Feed Reader project to your machine.
 Jasmine is there already included and installed.
 
-*Download the repository as a zip-file, extract it and open the index.html in your browser to run the Feed Reader Testing. 
-*Clone the repository with Git Bash, first cd into the directory you wish to store your project in then run the command: ```$ git clone https://github.com/MarthaTaylor/frontend-nanodegree-feedreader``` and go to the folder, open the index.html in your browser to run the RSS Feed Reader Tests.
+1. Download the repository as a zip-file, extract it and open the index.html in your browser to run the Feed Reader Testing. 
+
+2. Clone the repository with Git Bash, first cd into the directory you wish to store your project in then run the command: ```$ git clone https://github.com/MarthaTaylor/frontend-nanodegree-feedreader``` and go to the folder, open the index.html in your browser to run the RSS Feed Reader Tests.
 
 ## External Code Used in this Project
 
 The resources at the following links helped me to get a better understanding of the arcade game project:
 
-*The starter code for this project comes from the following (Udacity Frontend Feed Reader repository[here](https://github.com/udacity/frontend-nanodegree-feedreader)). I forked and cloned it to my laptop. Creating the origin connection to the remote repository and pushed up my work to my remote repository here on GitHub.
+The starter code for this project comes from the following (Udacity Frontend Feed Reader repository[here](https://github.com/udacity/frontend-nanodegree-feedreader)). I forked and cloned it to my laptop. Creating the origin connection to the remote repository and pushed up my work to my remote repository here on GitHub.
 
-*The basic functions were taken from a mixture or (Mathew Cranford[here](www.mathewcranford.com)) and (Mohamed Riaad's[here](https://www.youtube.com/watch?reload=9&v=Ut_L8YUImbw&index=6&list=PLpRo6-g-F-AOUsTQbKY1EYNpqXtxCT4a-&t=27s)).
+The basic functions were taken from a mixture or (Mathew Cranford[here](www.mathewcranford.com)) and (Mohamed Riaad's[here](https://www.youtube.com/watch?reload=9&v=Ut_L8YUImbw&index=6&list=PLpRo6-g-F-AOUsTQbKY1EYNpqXtxCT4a-&t=27s)).
 
-*Some code from [Daniela Kuester project](https://github.com/DanielaKuester) thanks Daniella for helping me understand async calls with arrow functions
+Some code from [Daniela Kuester project](https://github.com/DanielaKuester) thanks Daniella for helping me understand async calls with arrow functions
 
 
 ## Credits
