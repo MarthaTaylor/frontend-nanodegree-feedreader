@@ -92,7 +92,7 @@ A special shout out to the talented Mathew Cranford for his awesome teaching wri
 
 This repository is one of my projects as a Udacity student. Therefore, I most likely will not accept pull requests.
 
-For details, check out CONTRIBUTING.md file in this project repository.
+For details, (check out)[CONTRIBUTING.md] in this project repository.
 
 # License
 (c) Martha Taylor 2018.
