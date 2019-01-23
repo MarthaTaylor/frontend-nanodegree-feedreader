@@ -62,7 +62,7 @@ The starter code for this project comes from the following [Udacity Frontend Fee
 
 The basic functions were taken from a mixture or [Mathew Cranford](www.mathewcranford.com) and [Mohamed Riaad's](https://www.youtube.com/watch?reload=9&v=Ut_L8YUImbw&index=6&list=PLpRo6-g-F-AOUsTQbKY1EYNpqXtxCT4a-&t=27s).
 
-Some code from [Daniela Kuester](https://github.com/DanielaKuester) project thanks Daniella for helping me understand async calls with arrow functions
+Some code from [Daniela Kuester](https://github.com/DanielaKuester) project thanks Daniella for helping me understand async calls with arrow functions.
 
 
 ## Credits
@@ -71,11 +71,11 @@ The Udacity course work, written tutorials by Mathew Cranford and youtube Study 
 
 The [JavaScript Testing](https://eu.udacity.com/course/javascript-testing--ud549) course gives a solid introduction into testing with Jasmine.
 
-The [Jasmine Documentation](https://jasmine.github.io/tutorials/your_first_suite) is excellent 
+The [Jasmine Documentation](https://jasmine.github.io/tutorials/your_first_suite) is excellent.
 
 An overview of TDD and Jasmine's plus [Jasmines default matchers](https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e) written by Delores Diei which is very handy.
 
-A comprehensive list on GitHub of [Jasmine's matchers](https://github.com/JamieMason/Jasmine-Matchers#jasmines-default-matchers)
+A comprehensive list on GitHub of [Jasmine's matchers](https://github.com/JamieMason/Jasmine-Matchers#jasmines-default-matchers).
 
 
 # Acknowledgements
