@@ -58,9 +58,9 @@ Jasmine is there already included and installed.
 
 The resources at the following links helped me to get a better understanding of the arcade game project:
 
-The starter code for this project comes from the following (Udacity Frontend Feed Reader repository[here](https://github.com/udacity/frontend-nanodegree-feedreader)). I forked and cloned it to my laptop. Creating the origin connection to the remote repository and pushed up my work to my remote repository here on GitHub.
+The starter code for this project comes from the following [Udacity Frontend Feed Reader repository] (https://github.com/udacity/frontend-nanodegree-feedreader)). I forked and cloned it to my laptop. Creating the origin connection to the remote repository and pushed up my work to my remote repository here on GitHub.
 
-The basic functions were taken from a mixture or (Mathew Cranford[here](www.mathewcranford.com)) and (Mohamed Riaad's[here](https://www.youtube.com/watch?reload=9&v=Ut_L8YUImbw&index=6&list=PLpRo6-g-F-AOUsTQbKY1EYNpqXtxCT4a-&t=27s)).
+The basic functions were taken from a mixture or [Mathew Cranford](www.mathewcranford.com)) and [Mohamed Riaad's](https://www.youtube.com/watch?reload=9&v=Ut_L8YUImbw&index=6&list=PLpRo6-g-F-AOUsTQbKY1EYNpqXtxCT4a-&t=27s).
 
 Some code from [Daniela Kuester project](https://github.com/DanielaKuester) thanks Daniella for helping me understand async calls with arrow functions
 
@@ -69,13 +69,13 @@ Some code from [Daniela Kuester project](https://github.com/DanielaKuester) than
 
 The Udacity course work, written tutorials by Mathew Cranford and youtube Study Jam by Mohamed Riaad, Jasmine Documentation and article from  helped me to get a good overview and understanding of the feed reader project and there approachs to TDD was insightful. 
 
-The (JavaScript Testing[here](https://eu.udacity.com/course/javascript-testing--ud549)) course gives a solid introduction into testing with Jasmine.
+The [JavaScript Testing] (https://eu.udacity.com/course/javascript-testing--ud549) course gives a solid introduction into testing with Jasmine.
 
-The (Jasmine Documentation[here](https://jasmine.github.io/tutorials/your_first_suite)) is excellent 
+The [Jasmine Documentation] (https://jasmine.github.io/tutorials/your_first_suite) is excellent 
 
-An overview of TDD and Jasmine's plus (Jasmines default matchers[here] (https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e)) written by Delores Diei which is very handy.
+An overview of TDD and Jasmine's plus [Jasmines default matchers] (https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e) written by Delores Diei which is very handy.
 
-A comprehensive list on GitHub of (Jasmine's matchers[here](https://github.com/JamieMason/Jasmine-Matchers#jasmines-default-matchers))
+A comprehensive list on GitHub of [Jasmine's matchers] (https://github.com/JamieMason/Jasmine-Matchers#jasmines-default-matchers)
 
 
 # Acknowledgements
@@ -84,7 +84,7 @@ Big thanks to all who support me during my projects at Udacity, at home and on t
 
 Especially my student group at Udacity/Google Scholarship Slack workspace and all of my study groups! 
 
-An article outlining an overview of TDD and Jasmine's plus (Jasmines default matchers[here] (https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e)) written by Delores Diei which is very handy, thanks Delores. The Jasmine documentation writers who ever you are you really made it easier to grasp the tool, thank you.
+An article outlining an overview of TDD and Jasmine's plus [Jasmines default matchers] (https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e) written by Delores Diei which is very handy, thanks Delores. The Jasmine documentation writers who ever you are you really made it easier to grasp the tool, thank you.
 
 A special shout out to the talented Mathew Cranford for his awesome teaching written tutorials abilities and my code reviewer, thank you!
 
@@ -92,9 +92,9 @@ A special shout out to the talented Mathew Cranford for his awesome teaching wri
 
 This repository is one of my projects as a Udacity student. Therefore, I most likely will not accept pull requests.
 
-For details, (check out)[CONTRIBUTING.md] in this project repository.
+For details, look at the file in his repo called [CONTRIBUTING.md](CONTRIBUTING.md) in this project repository.
 
 # License
 (c) Martha Taylor 2018.
 
-This repository is licensed under the (MIT license[here](https://choosealicense.com/licenses/mit/#)). For further information see the LICENSE file in this project repository.
+This repository is licensed under the [MIT license] (https://choosealicense.com/licenses/mit/#). For further information see the LICENSE file in this project repository.
